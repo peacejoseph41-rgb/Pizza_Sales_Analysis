@@ -86,8 +86,8 @@ Categories contributing the most to total revenue
 
 These insights can help improve marketing strategies, inventory management, and pricing decisions.
 
-🚀 How to Run This Project 1️⃣ Clone the Repository git clone https://github.com/your-username/pizza-sales-analysis.git
-
+🚀 How to Run This Project 1️⃣ Clone the Repository git clone https://
+https://github.com/peacejoseph41-rgb/Pizza_Sales_Analysis/edit/main/README.md
 2️⃣ Navigate to the Project Folder cd pizza-sales-analysis
 
 3️⃣ Install Required Libraries pip install pandas numpy matplotlib seaborn
@@ -147,4 +147,4 @@ Submit a pull request
 This project is for educational and analytical purposes.
 👩🏽‍💻 Author
 
-Adebimpe Data Scientist | Passionate about Data Analysis & Insights#
+Peace Data Scientist | Passionate about Data Analysis & Insights#
